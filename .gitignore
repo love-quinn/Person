@@ -11,6 +11,8 @@
 # User-specific files (Mono Auto Generated)
 mono_crash.*
 
+bin/
+
 # User-specific files (VSCode)
 .vscode/*
 !.vscode/settings.json
@@ -1893,6 +1895,7 @@ _Chutzpah*
 
 # Microsoft Fakes
 FakesAssemblies/
+
 
 # GhostDoc plugin setting file
 *.Ghost
